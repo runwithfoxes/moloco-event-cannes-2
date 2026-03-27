@@ -10,10 +10,10 @@ export const eventConfig = {
   "heroHeadline": "VIP Connect",
   "heroSubheadline": "Cannes Leadership Dinner",
   "heroDescription": "An invitation-only gathering for senior leaders shaping the future of commerce and machine learning.",
-  "experienceHeadline": "15 leaders.\nOne long table.\nNo slides.",
+  "experienceHeadline": "15 leaders.\nNo slides.",
   "experienceParagraphs": [
-    "A closed-door, invitation-only evening designed for connection, not networking. The group is deliberately small. Senior enough to speak candidly, diverse enough to challenge each other’s assumptions.",
-    "The conversation centres on what machine learning is actually changing in commerce. Not the theory, but the reality. What’s working, what’s not, and what the next twelve months look like.",
+    "A closed-door, invitation-only evening designed for connection, not networking. The group is deliberately small. Senior enough to speak candidly, diverse enough to challenge each other's assumptions.",
+    "The conversation centres on what machine learning is actually changing in commerce. Not the theory, but the reality. What's working, what's not, and what the next twelve months look like.",
     "Join us at the Moloco penthouse for an evening of exceptional dining and strategic dialogue high above the Mediterranean."
   ],
   "agendaItems": [
@@ -63,7 +63,7 @@ export const eventConfig = {
     },
     {
       "q": "Who is this event for?",
-      "a": "Senior executives and leadership in growth, UA, product, monetisation, and performance marketing. We keep the group to around 15 people. Small enough that everyone speaks, diverse enough that you’ll hear something that changes how you think about a problem."
+      "a": "Senior executives and leadership in growth, UA, product, monetisation, and performance marketing. We keep the group to around 15 people. Small enough that everyone speaks, diverse enough that you'll hear something that changes how you think about a problem."
     },
     {
       "q": "Is this a public event / can I bring a +1?",
@@ -71,7 +71,7 @@ export const eventConfig = {
     },
     {
       "q": "What should I wear?",
-      "a": "Smart casual. Polished but comfortable. Think what you’d wear to dinner with people you want to impress without looking like you tried."
+      "a": "Smart casual. Polished but comfortable. Think what you'd wear to dinner with people you want to impress without looking like you tried."
     },
     {
       "q": "Is there a cost to attend?",
@@ -79,7 +79,7 @@ export const eventConfig = {
     },
     {
       "q": "What about dietary requirements?",
-      "a": "Moloco penthouse in Cannes, France accommodates dietary needs: vegetarian, vegan, gluten-free, allergies. Note yours on the registration form and they’ll take care of it."
+      "a": "Moloco penthouse in Cannes, France accommodates dietary needs: vegetarian, vegan, gluten-free, allergies. Note yours on the registration form and they'll take care of it."
     }
   ],
   "calendarTitle": "Moloco VIP Connect — Cannes Leadership Dinner",
